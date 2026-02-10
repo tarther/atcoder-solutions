@@ -4,6 +4,8 @@
 
 # 使用言語
 - Python
+# レート
+- tarther - AtCoder
 
 
 
